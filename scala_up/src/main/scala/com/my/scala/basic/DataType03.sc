@@ -1,0 +1,1 @@
+var b:Byte = (-0).toByte
